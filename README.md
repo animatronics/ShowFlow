@@ -3,6 +3,7 @@
 ##Introduction
 Show-Flow is a tool that lets you describe a show as a state machine: with the scenes as states and events that determine which is the next state/scene. In every scene, the user can include several audio files (either recorded within the software, or dragged in) and actuator animation tracks to control motion. The transition between scenes can be triggered by three types of events: timers, sensors, and variables reaching a trigger value. In this project, we also hope to inspire learning state machines and how to use them in code, so we provide code generated from the show schematics and hope it starts an educational activity.
 
+The demo video displayed at the UIST conference is available at https://youtu.be/pCSvJBroXJE
 The demo show created with Show-Flow for UIST is available at https://youtu.be/3Y2i5UnYe6I
 
 ##How to Use
